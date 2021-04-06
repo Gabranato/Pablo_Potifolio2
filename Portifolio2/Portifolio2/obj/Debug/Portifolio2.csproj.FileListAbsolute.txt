@@ -1,0 +1,16 @@
+C:\Users\gabri\source\repos\Portifolio2\Portifolio2\bin\Debug\Portifolio2.exe.config
+C:\Users\gabri\source\repos\Portifolio2\Portifolio2\bin\Debug\Portifolio2.exe
+C:\Users\gabri\source\repos\Portifolio2\Portifolio2\bin\Debug\Portifolio2.pdb
+C:\Users\gabri\source\repos\Portifolio2\Portifolio2\obj\Debug\Portifolio2.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\Portifolio2\Portifolio2\obj\Debug\Portifolio2.Form1.resources
+C:\Users\gabri\source\repos\Portifolio2\Portifolio2\obj\Debug\Portifolio2.Properties.Resources.resources
+C:\Users\gabri\source\repos\Portifolio2\Portifolio2\obj\Debug\Portifolio2.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\Portifolio2\Portifolio2\obj\Debug\Portifolio2.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Portifolio2\Portifolio2\obj\Debug\Portifolio2.exe
+C:\Users\gabri\source\repos\Portifolio2\Portifolio2\obj\Debug\Portifolio2.pdb
+C:\Users\gabri\source\repos\Portifolio2\Portifolio2\obj\Debug\Portifolio2.frmMediaAluno.resources
+C:\Users\gabri\source\repos\Portifolio2\Portifolio2\obj\Debug\Portifolio2.frmCalculoIMC.resources
+C:\Users\gabri\source\repos\Portifolio2\Portifolio2\obj\Debug\Portifolio2.frmConversaoCF.resources
+C:\Users\gabri\source\repos\Portifolio2\Portifolio2\obj\Debug\Portifolio2.frmConversaoCK.resources
+C:\Users\gabri\source\repos\Portifolio2\Portifolio2\obj\Debug\Portifolio2.frmFrete.resources
+C:\Users\gabri\source\repos\Portifolio2\Portifolio2\obj\Debug\Portifolio2.frmTabuada.resources
